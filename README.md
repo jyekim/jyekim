@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JihyeKim&fontSize=90)
-### Hi there 👋
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -24,6 +23,14 @@
 
 <br>
 <h3 align="center">🪄 Blog 🪄</h3>
+
+
+<h3 align="center">✨ Me ✨ </h3>
+<p align="center">
+  <a href="https://jyecoding.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-E34F26?style=flat-square&logo=Tistory&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
+  <a href="mailto:jye7921@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jye7921@gmail.com"/></a>
+</p>
+<br>
 
 
 <!--
