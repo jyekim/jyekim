@@ -22,7 +22,16 @@
 </p>
 
 <br>
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="center">🙌 Team Project 🙌</h3>
+[🏪BIT Kurly](https://drive.google.com/file/d/1ozyot5FwzIgJGfVd6IK283Pe_9ALnXEO/view?usp=sharing), [🤝한걸음](https://drive.google.com/file/d/1Ll7Jh4N1x6xm2EiNzka8-qZR0sL9Kb7A/view?usp=sharing)
+
+<br>
+<!-- ![jyekim's github stats](https://github-readme-stats.vercel.app/api?username=jyekim&show_icons=true)
+[![jyekim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jyekim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jyekim)
+ -->
+ 
+<br>
+<!-- <h3 align="center">🪄 Blog 🪄</h3> -->
 
 
 <h3 align="center">✨ Me ✨ </h3>
