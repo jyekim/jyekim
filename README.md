@@ -23,9 +23,13 @@
 
 <br>
 <h3 align="center">🙌 Team Project 🙌</h3>
-<!-- [🏪BIT Kurly](https://drive.google.com/file/d/1ozyot5FwzIgJGfVd6IK283Pe_9ALnXEO/view?usp=sharing), [🤝한걸음](https://drive.google.com/file/d/1Ll7Jh4N1x6xm2EiNzka8-qZR0sL9Kb7A/view?usp=sharing) -->
+<p align="center">
+  [🏪 BIT Kurly 식생활용품 웹사이트] : <a href="https://drive.google.com/file/d/1ozyot5FwzIgJGfVd6IK283Pe_9ALnXEO/view?usp=sharing">BIT Kurly</a>,
+  <br>
+  [🤝한걸음 기부펀딩 웹사이트] : <a href="https://drive.google.com/file/d/1Ll7Jh4N1x6xm2EiNzka8-qZR0sL9Kb7A/view?usp=sharing">한걸음</a>
+</p>
 
-<br>
+
 <!-- ![jyekim's github stats](https://github-readme-stats.vercel.app/api?username=jyekim&show_icons=true)
 [![jyekim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jyekim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jyekim)
  -->
